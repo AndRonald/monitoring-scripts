@@ -52,3 +52,11 @@ To create the example pods and service, use the following commands:
 ```bash
 kubectl apply -f kubernetes/manifests/nginx-deployment.yaml
 kubectl apply -f kubernetes/manifests/nginx-service.yaml
+
+...
+
+---
+
+## References
+
+This scripting initiative was inspired by and based on recommendations from the [roadmap.sh](https://roadmap.sh) website.
